@@ -23,5 +23,5 @@ describe("FizzBuzz", function(){
   it("return 'number' if number is NOT divisable by 3", function(){
     expect(game.check(2)).toEqual(2);
   });
-
+  
 });

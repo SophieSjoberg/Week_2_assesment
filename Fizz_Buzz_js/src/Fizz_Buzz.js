@@ -14,7 +14,7 @@ function FizzBuzz() {
     }
     };
   }
-
+  
 var _hasZeroReminder = function (number, divisor) {
   return (number % divisor === 0);
 
